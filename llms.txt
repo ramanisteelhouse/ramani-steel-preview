@@ -1,0 +1,164 @@
+# Ramani Steel House
+
+> Importer, stockholder, exporter and distributor of nickel alloys, stainless
+> steel, titanium, duplex and super duplex materials, based in Mumbai,
+> India, and trading since 1974 — 53 years. Material is supplied
+> from stock and against order, cut to size, with the mill test certificate for
+> the heat supplied.
+
+## What this company is
+
+- Trade role: supplier, stockist, stockholder, distributor, importer and exporter.
+  Manufacturing is limited to busbars and sheet metal components; mill products
+  are stocked and distributed, not manufactured here.
+- Registered address: 65/73, C.P. Tank Road, Mumbai 400004, Maharashtra, India
+- GST: 27AAAFR8488B1Z1
+- Importer-Exporter Code: 0393066606
+- Telephone: +91 22 2242 1388, +91 22 6636 2224
+- Email: info@ramanisteel.com
+
+## Certifications
+
+- AS9120:2018 (certificate UQ-2024102430)
+- ISO 9001:2015 (certificate 23MEQOO63)
+
+## How to read the material data on this site
+
+- Chemistry and mechanical figures on grade pages are the limits and minimums
+  published in the ASTM standard named on the page. They describe the standard,
+  not any particular heat. The chemistry and properties of material supplied are
+  reported on its mill test certificate.
+- Weight charts are calculated from nominal density. They are arithmetic, not a
+  stock list.
+- Size tables are the ranges recorded in the company's own product listings.
+  Availability changes constantly and is confirmed on enquiry.
+- Where a designation, standard or property is not confirmed, the page omits it
+  rather than estimating.
+
+## Product categories
+
+- [Pure Nickel](https://ramanisteelhouse.github.io/products/pure-nickel): Commercially pure nickel in grades 200, 201, N6 and 270, held in Mumbai stock for chemical, chlor-alkali, electrical and battery applications.
+- [Nickel Alloys & Super Alloys](https://ramanisteelhouse.github.io/products/nickel-alloys): Nickel-based alloys and super alloys for high-temperature and corrosive service, covering the Inconel, Incoloy, Monel, Hastelloy and Nimonic families.
+- [Titanium & Titanium Alloys](https://ramanisteelhouse.github.io/products/titanium): Commercially pure titanium and titanium alloys from Grade 1 through Grade 23, for aerospace, chemical processing and medical applications.
+- [Stainless Steel](https://ramanisteelhouse.github.io/products/stainless-steel): Austenitic stainless steel in the 300 series, including the low-carbon, high-carbon and stabilised grades used across process and construction industries.
+- [Duplex & Super Duplex](https://ramanisteelhouse.github.io/products/duplex-super-duplex): Duplex and super duplex stainless steel for chloride-bearing and high-strength service, together with the precipitation-hardening grades.
+- [6Mo Stainless Steel](https://ramanisteelhouse.github.io/products/6mo-stainless): Super-austenitic 6-molybdenum stainless steel for seawater, desalination and high-chloride duty where 316L is not sufficient.
+- [Special Stainless Steel](https://ramanisteelhouse.github.io/products/special-stainless): Heat-resistant and specialised corrosion-resistant stainless grades for furnace, kiln and aggressive chemical environments.
+- [Busbars & Nickel Strip](https://ramanisteelhouse.github.io/products/busbars): Nickel strip punched to your cell layout, plus copper, aluminium, nickel-plated and clad busbars for lithium-ion packs in EV, solar and energy storage.
+- [Metal Powder for AM](https://ramanisteelhouse.github.io/products/metal-powder): Gas-atomised, spherical metal powder for additive manufacturing — nine alloys across iron, nickel, titanium, cobalt and aluminium, stocked in five particle size cuts.
+
+## Industries served
+
+- [Aerospace](https://ramanisteelhouse.github.io/industries/aerospace): Titanium, nickel super alloys and precipitation-hardening stainless for airframe, engine and fastener applications.
+- [Oil & Gas](https://ramanisteelhouse.github.io/industries/oil-and-gas): Duplex, super duplex, 6Mo and nickel alloys for downhole, offshore and sour-service conditions.
+- [Chemical](https://ramanisteelhouse.github.io/industries/chemical): Corrosion-resistant alloys for reactors, heat exchangers and piping in acid and chloride service.
+- [Pharmaceutical](https://ramanisteelhouse.github.io/industries/pharmaceutical): Hygienic-grade stainless steel and nickel alloys for process vessels, piping and clean-in-place systems.
+- [Automobile](https://ramanisteelhouse.github.io/industries/automobile): Stainless steel, nickel strip and precision components for vehicle systems and battery assemblies.
+- [EV Battery](https://ramanisteelhouse.github.io/industries/ev-battery): Nickel strip, busbars and clad conductors for lithium-ion cell interconnection in EV, solar and energy storage packs.
+- [Construction](https://ramanisteelhouse.github.io/industries/construction): Structural and architectural stainless steel for building, infrastructure and cladding applications.
+- [Electrical](https://ramanisteelhouse.github.io/industries/electrical): Pure nickel, copper and plated conductors for electrical connection, contact and current-carrying components.
+
+## Grades
+
+- [904L](https://ramanisteelhouse.github.io/products/6mo-stainless/904l) — UNS N08904
+- [Alloy 330](https://ramanisteelhouse.github.io/products/special-stainless/alloy-330) — UNS N08330
+- [Duplex 2205 (S31803)](https://ramanisteelhouse.github.io/products/duplex-super-duplex/duplex-2205) — UNS S31803
+- [Hastelloy C276](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-c276) — UNS N10276
+- [Incoloy 330](https://ramanisteelhouse.github.io/products/incoloy/incoloy-330) — UNS N08330
+- [Inconel 600](https://ramanisteelhouse.github.io/products/inconel/inconel-600) — UNS N06600
+- [Monel K-400](https://ramanisteelhouse.github.io/products/monel/monel-k400)
+- [Nickel 200](https://ramanisteelhouse.github.io/products/pure-nickel/nickel-200) — UNS N02200
+- [Nickel Strip for 18650 Cells](https://ramanisteelhouse.github.io/products/busbars/nickel-strip-18650) — UNS N02200
+- [Nimonic 75](https://ramanisteelhouse.github.io/products/nimonic/nimonic-75) — UNS N06075
+- [SS 316L Metal Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-ss316l) — UNS S31603
+- [Stainless Steel 303](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-303) — UNS S30300
+- [Titanium Grade 1](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-1) — UNS R50250
+- [254 SMO](https://ramanisteelhouse.github.io/products/6mo-stainless/254-smo) — UNS S31254
+- [Alloy 20](https://ramanisteelhouse.github.io/products/special-stainless/alloy-20) — UNS N08020
+- [H13 Tool Steel Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-h13) — UNS T20813
+- [Hastelloy C22](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-c22) — UNS N06022
+- [Incoloy 800](https://ramanisteelhouse.github.io/products/incoloy/incoloy-800) — UNS N08800
+- [Inconel 601](https://ramanisteelhouse.github.io/products/inconel/inconel-601) — UNS N06601
+- [Monel K-405](https://ramanisteelhouse.github.io/products/monel/monel-k405) — UNS N04405
+- [Nickel 201](https://ramanisteelhouse.github.io/products/pure-nickel/nickel-201) — UNS N02201
+- [Nickel Strip for 21700 Cells](https://ramanisteelhouse.github.io/products/busbars/nickel-strip-21700) — UNS N02200
+- [Nimonic 80A](https://ramanisteelhouse.github.io/products/nimonic/nimonic-80a) — UNS N07080
+- [Stainless Steel 304](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-304) — UNS S30400
+- [Super Duplex 2507 (S32750)](https://ramanisteelhouse.github.io/products/duplex-super-duplex/super-duplex-32750) — UNS S32750
+- [Titanium Grade 2](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-2) — UNS R50400
+- [Alloy 28](https://ramanisteelhouse.github.io/products/special-stainless/alloy-28) — UNS N08028
+- [Hastelloy C4](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-c4) — UNS N06455
+- [Incoloy 800H](https://ramanisteelhouse.github.io/products/incoloy/incoloy-800h) — UNS N08810
+- [Inconel 602CA](https://ramanisteelhouse.github.io/products/inconel/inconel-602ca) — UNS N06025
+- [Monel K-500](https://ramanisteelhouse.github.io/products/monel/monel-k500) — UNS N05500
+- [MS1 Maraging Steel Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-ms1)
+- [Nickel N6](https://ramanisteelhouse.github.io/products/pure-nickel/nickel-n6)
+- [Nickel Strip for 26650 Cells](https://ramanisteelhouse.github.io/products/busbars/nickel-strip-26650) — UNS N02200
+- [Nimonic 90](https://ramanisteelhouse.github.io/products/nimonic/nimonic-90) — UNS N07090
+- [SMO 654](https://ramanisteelhouse.github.io/products/6mo-stainless/smo-654) — UNS S32654
+- [Stainless Steel 304H](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-304h) — UNS S30409
+- [Super Duplex S32760](https://ramanisteelhouse.github.io/products/duplex-super-duplex/super-duplex-32760) — UNS S32760
+- [Titanium Grade 3](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-3) — UNS R50550
+- [17-4PH (SUS 630)](https://ramanisteelhouse.github.io/products/duplex-super-duplex/17-4ph) — UNS S17400
+- [AL-6XN](https://ramanisteelhouse.github.io/products/6mo-stainless/al-6xn) — UNS N08367
+- [Alloy 31](https://ramanisteelhouse.github.io/products/special-stainless/alloy-31) — UNS N08031
+- [Hastelloy C2000](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-c2000) — UNS N06200
+- [Incoloy 800HT](https://ramanisteelhouse.github.io/products/incoloy/incoloy-800ht) — UNS N08811
+- [Inconel 617](https://ramanisteelhouse.github.io/products/inconel/inconel-617) — UNS N06617
+- [Inconel 718 Metal Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-inconel-718) — UNS N07718
+- [Nickel 270](https://ramanisteelhouse.github.io/products/pure-nickel/nickel-270) — UNS N02270
+- [Nickel Strip for 32650 Cells](https://ramanisteelhouse.github.io/products/busbars/nickel-strip-32650) — UNS N02200
+- [Stainless Steel 304L](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-304l) — UNS S30403
+- [Titanium Grade 4](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-4) — UNS R50700
+- [15-5PH](https://ramanisteelhouse.github.io/products/duplex-super-duplex/15-5ph) — UNS S15500
+- [Alloy 59](https://ramanisteelhouse.github.io/products/special-stainless/alloy-59) — UNS N06059
+- [Alloy 926](https://ramanisteelhouse.github.io/products/6mo-stainless/alloy-926) — UNS N08926
+- [Hastelloy X](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-x) — UNS N06002
+- [Incoloy 825](https://ramanisteelhouse.github.io/products/incoloy/incoloy-825) — UNS N08825
+- [Inconel 625](https://ramanisteelhouse.github.io/products/inconel/inconel-625) — UNS N06625
+- [Inconel 625 Metal Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-inconel-625) — UNS N06625
+- [Nickel Strip for 32700 Cells](https://ramanisteelhouse.github.io/products/busbars/nickel-strip-32700) — UNS N02200
+- [Stainless Steel 309S](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-309s) — UNS S30908
+- [Titanium Grade 5 (Ti-6Al-4V)](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-5) — UNS R56400
+- [Alloy 253MA](https://ramanisteelhouse.github.io/products/special-stainless/alloy-253ma) — UNS S30815
+- [Hastelloy B3](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-b3) — UNS N10675
+- [Incoloy 909](https://ramanisteelhouse.github.io/products/incoloy/incoloy-909) — UNS N19909
+- [Inconel 626](https://ramanisteelhouse.github.io/products/inconel/inconel-626)
+- [Plain Nickel Strip](https://ramanisteelhouse.github.io/products/busbars/plain-nickel-strip) — UNS N02200
+- [Stainless Steel 310](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-310) — UNS S31000
+- [Ti-6Al-4V Metal Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-ti64) — UNS R56400
+- [Titanium Grade 6](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-6) — UNS R54520
+- [XM-19 (Nitronic 50)](https://ramanisteelhouse.github.io/products/duplex-super-duplex/xm-19) — UNS S20910
+- [CP Titanium Grade 2 Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-cpti-gr2) — UNS R50400
+- [Hastelloy G](https://ramanisteelhouse.github.io/products/hastelloy/hastelloy-g)
+- [Incoloy 925](https://ramanisteelhouse.github.io/products/incoloy/incoloy-925) — UNS N09925
+- [Inconel 718](https://ramanisteelhouse.github.io/products/inconel/inconel-718) — UNS N07718
+- [Nickel Busbar](https://ramanisteelhouse.github.io/products/busbars/nickel-busbar)
+- [Stainless Steel 310S](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-310s) — UNS S31008
+- [Titanium Grade 7](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-7) — UNS R52400
+- [CoCrMo Metal Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-cocrmo) — UNS R31538
+- [Copper Busbar](https://ramanisteelhouse.github.io/products/busbars/copper-busbar)
+- [Inconel 725](https://ramanisteelhouse.github.io/products/inconel/inconel-725) — UNS N07725
+- [Stainless Steel 316](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-316) — UNS S31600
+- [Titanium Grade 9](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-9) — UNS R56320
+- [AlSi10Mg Metal Powder](https://ramanisteelhouse.github.io/products/metal-powder/powder-alsi10mg)
+- [Aluminium Busbar](https://ramanisteelhouse.github.io/products/busbars/aluminium-busbar)
+- [Inconel X-750](https://ramanisteelhouse.github.io/products/inconel/inconel-x750) — UNS N07750
+- [Stainless Steel 316L](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-316l) — UNS S31603
+- [Titanium Grade 12](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-12) — UNS R53400
+- [Inconel 751](https://ramanisteelhouse.github.io/products/inconel/inconel-751) — UNS N07751
+- [Nickel Plated Copper Busbar](https://ramanisteelhouse.github.io/products/busbars/nickel-plated-copper-busbar)
+- [Stainless Steel 317L](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-317l) — UNS S31703
+- [Titanium Grade 23 (Ti-6Al-4V ELI)](https://ramanisteelhouse.github.io/products/titanium/titanium-grade-23) — UNS R56407
+- [Nickel Plated Steel Busbar](https://ramanisteelhouse.github.io/products/busbars/nickel-plated-steel-busbar)
+- [Stainless Steel 321H](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-321h) — UNS S32109
+- [Nickel-Copper Sandwich Busbar](https://ramanisteelhouse.github.io/products/busbars/nickel-copper-sandwich-busbar)
+- [Stainless Steel 347H](https://ramanisteelhouse.github.io/products/stainless-steel/stainless-steel-347h) — UNS S34709
+
+## Company pages
+
+- [About](https://ramanisteelhouse.github.io/about)
+- [Quality and certifications](https://ramanisteelhouse.github.io/quality)
+- [Infrastructure and processing](https://ramanisteelhouse.github.io/infrastructure)
+- [Contact](https://ramanisteelhouse.github.io/contact)
+- [Request a quote](https://ramanisteelhouse.github.io/request-quote)

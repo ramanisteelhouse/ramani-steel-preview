@@ -1,0 +1,5 @@
+:HL["/ramani-steel-preview/_next/static/chunks/1aokltqs1btn7.css","style"]
+:HL["/ramani-steel-preview/_next/static/media/83afe278b6a6bb3c-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ramani-steel-preview/_next/static/media/99e609270109b47d-s.p.40sczeszzbjw1.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/ramani-steel-preview/_next/static/media/effe91970fc4db64-s.p.0oace-s_gkfks.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4112,"slots":{"children":{"name":"products","param":null,"prefetchHints":4160,"slots":{"children":{"name":"category","param":{"type":"d","key":"hastelloy","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"product","param":{"type":"d","key":"hastelloy-g","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}}}},"staleTime":300,"buildId":"sQCpyQDqfVT_tbqONnCGT"}
