@@ -1,0 +1,477 @@
+# Ramani Steel House — grade data
+
+> Standard limits and minimum properties for the grades Ramani Steel House supplies from
+> Mumbai, India. Same figures as the grade pages, in one file.
+> Page content last updated 2026-10-14. Full site map: https://www.ramanisteel.com/llms.txt
+
+## How to read this data
+
+- Chemistry limits and mechanical minimums are those published in the ASTM
+  standard named for each grade. They describe the standard, not any heat we
+  have supplied; the chemistry and properties of material supplied are reported
+  on its mill test certificate.
+- Where a designation, standard or property is not confirmed, it is omitted.
+- Availability, sizes and price are confirmed on enquiry: https://www.ramanisteel.com/request-quote/
+
+## Duplex 2205 (S31803)
+
+- Page: https://www.ramanisteel.com/products/duplex-super-duplex/duplex-2205/
+- UNS: S31803; Werkstoff Nr. 1.4462
+- Type: Duplex stainless
+- Density: 7.8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 620 MPa, yield 450 MPa, elongation 25%
+- Chemistry limits (weight %): Carbon (C) 0.030; Manganese (Mn) 2.00; Phosphorus (P) 0.030; Sulphur (S) 0.020; Silicon (Si) 1.00; Chromium (Cr) 21.0 – 23.0; Nickel (Ni) 4.5 – 6.5; Molybdenum (Mo) 2.5 – 3.5; Nitrogen (N) 0.08 – 0.20; Iron (Fe) Balance
+- Applications: Chemical processing; Oil & gas; Pulp & paper; Structural
+
+## Hastelloy C276
+
+- Page: https://www.ramanisteel.com/products/hastelloy/hastelloy-c276/
+- UNS: N10276; Werkstoff Nr. 2.4819
+- Type: Nickel-molybdenum-chromium alloy
+- Density: 8.89 g/cm³
+- Standard basis: ASTM B575 / B574
+- Minimum properties (Solution annealed): tensile 689 MPa, yield 283 MPa, elongation 40%
+- Chemistry limits (weight %): Molybdenum (Mo) 15.0 – 17.0; Chromium (Cr) 14.5 – 16.5; Iron (Fe) 4.0 – 7.0; Tungsten (W) 3.0 – 4.5; Cobalt (Co) 2.5; Manganese (Mn) 1.0; Vanadium (V) 0.35; Silicon (Si) 0.08; Carbon (C) 0.010; Phosphorus (P) 0.04; Sulphur (S) 0.03; Nickel (Ni) Balance
+- Applications: Chemical processing; Pollution control; Pulp & paper; Pharmaceutical
+
+## Inconel 600
+
+- Page: https://www.ramanisteel.com/products/inconel/inconel-600/
+- UNS: N06600; Werkstoff Nr. 2.4816
+- Type: Nickel-chromium-iron alloy
+- Density: 8.47 g/cm³
+- Standard basis: ASTM B168 / B166
+- Minimum properties (Annealed): tensile 552 MPa, yield 241 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (incl. cobalt) 72.0 min; Chromium (Cr) 14.0 – 17.0; Iron (Fe) 6.0 – 10.0; Carbon (C) 0.15; Manganese (Mn) 1.0; Silicon (Si) 0.50; Copper (Cu) 0.50; Sulphur (S) 0.015
+- Applications: Heat treatment; Chemical processing; Electrical heating
+
+## Nickel 200
+
+- Page: https://www.ramanisteel.com/products/pure-nickel/nickel-200/
+- UNS: N02200; Werkstoff Nr. 2.4066
+- Type: Commercially pure nickel
+- Density: 8.89 g/cm³
+- Standard basis: ASTM B162 / B160
+- Minimum properties (Annealed): tensile 379 MPa, yield 103 MPa, elongation 40%
+- Chemistry limits (weight %): Nickel (incl. cobalt) 99.0 min; Copper (Cu) 0.25; Iron (Fe) 0.40; Manganese (Mn) 0.35; Carbon (C) 0.15; Silicon (Si) 0.35; Sulphur (S) 0.01
+- Applications: Chemical processing; Food processing; Electrical & electronics
+
+## Stainless Steel 303
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-303/
+- UNS: S30300; Werkstoff Nr. 1.4305
+- Type: Free-machining austenitic stainless
+- Density: 8 g/cm³
+- Standard basis: ASTM A582
+- Mechanical minimums: not tabulated — Bar standard sets hardness, not tensile minimums
+- Chemistry limits (weight %): Carbon (C) 0.15; Manganese (Mn) 2.00; Phosphorus (P) 0.20; Sulphur (S) 0.15 min; Silicon (Si) 1.00; Chromium (Cr) 17.0 – 19.0; Nickel (Ni) 8.0 – 10.0; Iron (Fe) Balance
+- Note: Sulphur is a deliberate minimum, not a maximum — it is what makes the grade free-machining.
+- Applications: Precision machining; Fasteners; Pumps & valves
+
+## Titanium Grade 1
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-1/
+- UNS: R50250; Werkstoff Nr. 3.7025
+- Type: Commercially pure
+- Density: 4.51 g/cm³
+- Standard basis: ASTM B265 / B348
+- Forms in our listings: Sheet, Plate, Cold rolled, Hot rolled
+- Minimum properties (Annealed): tensile 240 MPa, yield 138 MPa, elongation 24%
+- Chemistry limits (weight %): Nitrogen (N) 0.03; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.20; Oxygen (O) 0.18; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Chemical processing; Marine; Medical; Architecture
+
+## Hastelloy C22
+
+- Page: https://www.ramanisteel.com/products/hastelloy/hastelloy-c22/
+- UNS: N06022; Werkstoff Nr. 2.4602
+- Type: Nickel-chromium-molybdenum alloy
+- Density: 8.69 g/cm³
+- Standard basis: ASTM B575 / B574
+- Minimum properties (Solution annealed): tensile 689 MPa, yield 310 MPa, elongation 45%
+- Chemistry limits (weight %): Chromium (Cr) 20.0 – 22.5; Molybdenum (Mo) 12.5 – 14.5; Iron (Fe) 2.0 – 6.0; Tungsten (W) 2.5 – 3.5; Cobalt (Co) 2.5; Manganese (Mn) 0.50; Vanadium (V) 0.35; Silicon (Si) 0.08; Carbon (C) 0.015; Phosphorus (P) 0.02; Sulphur (S) 0.02; Nickel (Ni) Balance
+- Applications: Chemical processing; Pharmaceutical; Pollution control
+
+## Incoloy 800
+
+- Page: https://www.ramanisteel.com/products/incoloy/incoloy-800/
+- UNS: N08800; Werkstoff Nr. 1.4876
+- Type: Iron-nickel-chromium alloy
+- Density: 7.94 g/cm³
+- Standard basis: ASTM B409 / B408
+- Minimum properties (Annealed): tensile 517 MPa, yield 207 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (Ni) 30.0 – 35.0; Chromium (Cr) 19.0 – 23.0; Iron (Fe) 39.5 min; Aluminium (Al) 0.15 – 0.60; Titanium (Ti) 0.15 – 0.60; Carbon (C) 0.10; Manganese (Mn) 1.50; Silicon (Si) 1.00; Copper (Cu) 0.75; Sulphur (S) 0.015
+- Applications: Heat exchangers; Petrochemical; Heat treatment
+
+## Inconel 601
+
+- Page: https://www.ramanisteel.com/products/inconel/inconel-601/
+- UNS: N06601; Werkstoff Nr. 2.4851
+- Type: Nickel-chromium-iron alloy
+- Density: 8.11 g/cm³
+- Standard basis: ASTM B168 / B166
+- Minimum properties (Annealed): tensile 552 MPa, yield 207 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (Ni) 58.0 – 63.0; Chromium (Cr) 21.0 – 25.0; Aluminium (Al) 1.0 – 1.7; Carbon (C) 0.10; Manganese (Mn) 1.0; Silicon (Si) 0.50; Copper (Cu) 1.0; Sulphur (S) 0.015; Iron (Fe) Balance
+- Applications: Heat treatment; Industrial furnaces; Petrochemical
+
+## Nickel 201
+
+- Page: https://www.ramanisteel.com/products/pure-nickel/nickel-201/
+- UNS: N02201; Werkstoff Nr. 2.4068
+- Type: Commercially pure nickel, low carbon
+- Density: 8.89 g/cm³
+- Standard basis: ASTM B162 / B160
+- Minimum properties (Annealed): tensile 345 MPa, yield 83 MPa, elongation 40%
+- Chemistry limits (weight %): Nickel (incl. cobalt) 99.0 min; Copper (Cu) 0.25; Iron (Fe) 0.40; Manganese (Mn) 0.35; Carbon (C) 0.02; Silicon (Si) 0.35; Sulphur (S) 0.01
+- Applications: Chlor-alkali; Chemical processing; Battery & electrical
+
+## Stainless Steel 304
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-304/
+- UNS: S30400; Werkstoff Nr. 1.4301
+- Type: Austenitic stainless
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.07; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 17.5 – 19.5; Nickel (Ni) 8.0 – 10.5; Nitrogen (N) 0.10; Iron (Fe) Balance
+- Applications: Food & beverage; Architecture; General fabrication
+
+## Super Duplex 2507 (S32750)
+
+- Page: https://www.ramanisteel.com/products/duplex-super-duplex/super-duplex-32750/
+- UNS: S32750; Werkstoff Nr. 1.4410
+- Type: Super duplex stainless
+- Density: 7.8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 795 MPa, yield 550 MPa, elongation 15%
+- Chemistry limits (weight %): Carbon (C) 0.030; Manganese (Mn) 1.20; Phosphorus (P) 0.035; Sulphur (S) 0.020; Silicon (Si) 0.80; Chromium (Cr) 24.0 – 26.0; Nickel (Ni) 6.0 – 8.0; Molybdenum (Mo) 3.0 – 5.0; Nitrogen (N) 0.24 – 0.32; Copper (Cu) 0.50; Iron (Fe) Balance
+- Applications: Offshore & subsea; Desalination; Oil & gas
+
+## Titanium Grade 2
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-2/
+- UNS: R50400; Werkstoff Nr. 3.7035
+- Type: Commercially pure
+- Density: 4.51 g/cm³
+- Standard basis: ASTM B265 / B348
+- Forms in our listings: Sheet, Plate, Sheet (2B finish), Cold rolled, Coil
+- Minimum properties (Annealed): tensile 345 MPa, yield 275 MPa, elongation 20%
+- Chemistry limits (weight %): Nitrogen (N) 0.03; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.30; Oxygen (O) 0.25; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Chemical processing; Desalination; Power generation; Oil & gas
+
+## Incoloy 800H
+
+- Page: https://www.ramanisteel.com/products/incoloy/incoloy-800h/
+- UNS: N08810; Werkstoff Nr. 1.4958
+- Type: Iron-nickel-chromium alloy, controlled carbon
+- Density: 7.94 g/cm³
+- Standard basis: ASTM B409 / B408
+- Minimum properties (Solution annealed): tensile 448 MPa, yield 172 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (Ni) 30.0 – 35.0; Chromium (Cr) 19.0 – 23.0; Iron (Fe) 39.5 min; Aluminium (Al) 0.15 – 0.60; Titanium (Ti) 0.15 – 0.60; Carbon (C) 0.05 – 0.10; Manganese (Mn) 1.50; Silicon (Si) 1.00; Copper (Cu) 0.75; Sulphur (S) 0.015
+- Applications: Petrochemical; Power generation; Heat treatment
+
+## Monel K-500
+
+- Page: https://www.ramanisteel.com/products/monel/monel-k500/
+- UNS: N05500; Werkstoff Nr. 2.4375
+- Type: Precipitation-hardening nickel-copper alloy
+- Density: 8.44 g/cm³
+- Standard basis: ASTM B865
+- Chemistry limits (weight %): Nickel (incl. cobalt) 63.0 min; Copper (Cu) 27.0 – 33.0; Aluminium (Al) 2.30 – 3.15; Titanium (Ti) 0.35 – 0.85; Iron (Fe) 2.0; Manganese (Mn) 1.5; Carbon (C) 0.25; Silicon (Si) 0.50; Sulphur (S) 0.01
+- Applications: Marine; Oil & gas; General engineering
+
+## Stainless Steel 304H
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-304h/
+- UNS: S30409; Werkstoff Nr. 1.4948
+- Type: Austenitic stainless, controlled carbon
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.04 – 0.10; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 18.0 – 20.0; Nickel (Ni) 8.0 – 10.5; Iron (Fe) Balance
+- Applications: Power generation; Petrochemical; Process heating
+
+## Super Duplex S32760
+
+- Page: https://www.ramanisteel.com/products/duplex-super-duplex/super-duplex-32760/
+- UNS: S32760; Werkstoff Nr. 1.4501
+- Type: Super duplex stainless
+- Density: 7.84 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 750 MPa, yield 550 MPa, elongation 25%
+- Chemistry limits (weight %): Carbon (C) 0.030; Manganese (Mn) 1.00; Phosphorus (P) 0.030; Sulphur (S) 0.010; Silicon (Si) 1.00; Chromium (Cr) 24.0 – 26.0; Nickel (Ni) 6.0 – 8.0; Molybdenum (Mo) 3.0 – 4.0; Nitrogen (N) 0.20 – 0.30; Copper (Cu) 0.50 – 1.00; Tungsten (W) 0.50 – 1.00; Iron (Fe) Balance
+- Note: The standard also requires Cr + 3.3 Mo + 16 N of at least 40.
+- Applications: Offshore; Desalination; Chemical processing
+
+## Titanium Grade 3
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-3/
+- UNS: R50550; Werkstoff Nr. 3.7055
+- Type: Commercially pure
+- Density: 4.51 g/cm³
+- Standard basis: ASTM B265 / B348
+- Minimum properties (Annealed): tensile 450 MPa, yield 380 MPa, elongation 18%
+- Chemistry limits (weight %): Nitrogen (N) 0.05; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.30; Oxygen (O) 0.35; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Chemical processing; Marine; Aerospace
+
+## 17-4PH (SUS 630)
+
+- Page: https://www.ramanisteel.com/products/duplex-super-duplex/17-4ph/
+- UNS: S17400; Werkstoff Nr. 1.4542
+- Type: Precipitation-hardening martensitic stainless
+- Density: 7.8 g/cm³
+- Standard basis: ASTM A564 / A693
+- Chemistry limits (weight %): Carbon (C) 0.07; Manganese (Mn) 1.00; Phosphorus (P) 0.040; Sulphur (S) 0.030; Silicon (Si) 1.00; Chromium (Cr) 15.0 – 17.5; Nickel (Ni) 3.0 – 5.0; Copper (Cu) 3.0 – 5.0; Niobium + tantalum 0.15 – 0.45; Iron (Fe) Balance
+- Applications: Pumps & valves; Fasteners; General engineering
+
+## Incoloy 800HT
+
+- Page: https://www.ramanisteel.com/products/incoloy/incoloy-800ht/
+- UNS: N08811; Werkstoff Nr. 1.4959
+- Type: Iron-nickel-chromium alloy, controlled carbon and Al + Ti
+- Density: 7.94 g/cm³
+- Standard basis: ASTM B409 / B408
+- Minimum properties (Solution annealed): tensile 448 MPa, yield 172 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (Ni) 30.0 – 35.0; Chromium (Cr) 19.0 – 23.0; Iron (Fe) 39.5 min; Aluminium (Al) 0.25 – 0.60; Titanium (Ti) 0.25 – 0.60; Aluminium + titanium 0.85 – 1.20; Carbon (C) 0.06 – 0.10; Manganese (Mn) 1.50; Silicon (Si) 1.00; Copper (Cu) 0.75; Sulphur (S) 0.015
+- Applications: Petrochemical; Industrial heating
+
+## Stainless Steel 304L
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-304l/
+- UNS: S30403; Werkstoff Nr. 1.4307
+- Type: Austenitic stainless, low carbon
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 485 MPa, yield 170 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.030; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 17.5 – 19.5; Nickel (Ni) 8.0 – 12.0; Nitrogen (N) 0.10; Iron (Fe) Balance
+- Applications: Welded process equipment; Food, dairy & brewing; Chemical storage
+
+## Titanium Grade 4
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-4/
+- UNS: R50700; Werkstoff Nr. 3.7065
+- Type: Commercially pure
+- Density: 4.51 g/cm³
+- Standard basis: ASTM B265 / B348
+- Forms in our listings: Sheet, Coil
+- Minimum properties (Annealed): tensile 550 MPa, yield 483 MPa, elongation 15%
+- Chemistry limits (weight %): Nitrogen (N) 0.05; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.50; Oxygen (O) 0.40; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Medical; Aerospace; Chemical processing
+
+## 15-5PH
+
+- Page: https://www.ramanisteel.com/products/duplex-super-duplex/15-5ph/
+- UNS: S15500; Werkstoff Nr. 1.4545
+- Type: Precipitation-hardening martensitic stainless
+- Density: 7.8 g/cm³
+- Standard basis: ASTM A564
+- Chemistry limits (weight %): Carbon (C) 0.07; Manganese (Mn) 1.00; Phosphorus (P) 0.040; Sulphur (S) 0.030; Silicon (Si) 1.00; Chromium (Cr) 14.0 – 15.5; Nickel (Ni) 3.5 – 5.5; Copper (Cu) 2.5 – 4.5; Niobium + tantalum 0.15 – 0.45; Iron (Fe) Balance
+- Applications: Aerospace; Precision engineering; Valves
+
+## Hastelloy X
+
+- Page: https://www.ramanisteel.com/products/hastelloy/hastelloy-x/
+- UNS: N06002; Werkstoff Nr. 2.4665
+- Type: Nickel-chromium-iron-molybdenum alloy
+- Density: 8.22 g/cm³
+- Standard basis: ASTM B435 / B572
+- Minimum properties (Solution annealed): tensile 655 MPa, yield 241 MPa, elongation 35%
+- Chemistry limits (weight %): Chromium (Cr) 20.5 – 23.0; Iron (Fe) 17.0 – 20.0; Molybdenum (Mo) 8.0 – 10.0; Cobalt (Co) 0.50 – 2.50; Tungsten (W) 0.20 – 1.00; Carbon (C) 0.05 – 0.15; Manganese (Mn) 1.00; Silicon (Si) 1.00; Boron (B) 0.008; Phosphorus (P) 0.04; Sulphur (S) 0.03; Nickel (Ni) Balance
+- Applications: Aerospace & power; Industrial furnaces; Petrochemical
+
+## Incoloy 825
+
+- Page: https://www.ramanisteel.com/products/incoloy/incoloy-825/
+- UNS: N08825; Werkstoff Nr. 2.4858
+- Type: Nickel-iron-chromium alloy
+- Density: 8.14 g/cm³
+- Standard basis: ASTM B424 / B425
+- Minimum properties (Annealed): tensile 586 MPa, yield 241 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (Ni) 38.0 – 46.0; Chromium (Cr) 19.5 – 23.5; Iron (Fe) 22.0 min; Molybdenum (Mo) 2.5 – 3.5; Copper (Cu) 1.5 – 3.0; Titanium (Ti) 0.6 – 1.2; Carbon (C) 0.05; Manganese (Mn) 1.0; Silicon (Si) 0.50; Aluminium (Al) 0.20; Sulphur (S) 0.03
+- Applications: Oil & gas; Chemical processing; Pollution control
+
+## Inconel 625
+
+- Page: https://www.ramanisteel.com/products/inconel/inconel-625/
+- UNS: N06625; Werkstoff Nr. 2.4856
+- Type: Nickel-chromium-molybdenum alloy
+- Density: 8.44 g/cm³
+- Standard basis: ASTM B443 / B446
+- Minimum properties (Annealed (Grade 1)): tensile 827 MPa, yield 414 MPa, elongation 30%
+- Chemistry limits (weight %): Nickel (Ni) 58.0 min; Chromium (Cr) 20.0 – 23.0; Molybdenum (Mo) 8.0 – 10.0; Niobium + tantalum 3.15 – 4.15; Iron (Fe) 5.0; Cobalt (Co) 1.0; Carbon (C) 0.10; Manganese (Mn) 0.50; Silicon (Si) 0.50; Aluminium (Al) 0.40; Titanium (Ti) 0.40; Phosphorus (P) 0.015; Sulphur (S) 0.015
+- Applications: Marine & offshore; Oil & gas; Chemical processing; Aerospace
+
+## Stainless Steel 309S
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-309s/
+- UNS: S30908; Werkstoff Nr. 1.4833
+- Type: Heat-resistant austenitic stainless
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.08; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 22.0 – 24.0; Nickel (Ni) 12.0 – 15.0; Iron (Fe) Balance
+- Applications: Heat treatment; Industrial furnaces; Kilns
+
+## Titanium Grade 5 (Ti-6Al-4V)
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-5/
+- UNS: R56400; Werkstoff Nr. 3.7165
+- Type: Alpha-beta alloy
+- Density: 4.43 g/cm³
+- Standard basis: ASTM B265 / B348
+- Forms in our listings: Sheet, Plate
+- Minimum properties (Annealed): tensile 895 MPa, yield 828 MPa, elongation 10%
+- Chemistry limits (weight %): Nitrogen (N) 0.05; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.40; Oxygen (O) 0.20; Aluminium (Al) 5.50 – 6.75; Vanadium (V) 3.50 – 4.50; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Aerospace; Medical; Oil & gas; Motorsport & performance
+
+## XM-19 (Nitronic 50)
+
+- Page: https://www.ramanisteel.com/products/duplex-super-duplex/xm-19/
+- UNS: S20910
+- Type: Nitrogen-strengthened austenitic stainless
+- Density: 7.88 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 690 MPa, yield 380 MPa, elongation 35%
+- Chemistry limits (weight %): Carbon (C) 0.060; Manganese (Mn) 4.0 – 6.0; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 1.00; Chromium (Cr) 20.5 – 23.5; Nickel (Ni) 11.5 – 13.5; Molybdenum (Mo) 1.50 – 3.00; Nitrogen (N) 0.20 – 0.40; Niobium (Nb) 0.10 – 0.30; Vanadium (V) 0.10 – 0.30; Iron (Fe) Balance
+- Applications: Marine; Pumps & valves; Chemical processing
+
+## Inconel 718
+
+- Page: https://www.ramanisteel.com/products/inconel/inconel-718/
+- UNS: N07718; Werkstoff Nr. 2.4668
+- Type: Precipitation-hardening nickel-chromium alloy
+- Density: 8.19 g/cm³
+- Standard basis: ASTM B670 / B637
+- Minimum properties (Solution treated and precipitation hardened (ASTM B637)): tensile 1276 MPa, yield 1034 MPa, elongation 12%
+- Chemistry limits (weight %): Nickel (incl. cobalt) 50.0 – 55.0; Chromium (Cr) 17.0 – 21.0; Niobium + tantalum 4.75 – 5.50; Molybdenum (Mo) 2.80 – 3.30; Titanium (Ti) 0.65 – 1.15; Aluminium (Al) 0.20 – 0.80; Cobalt (Co) 1.0; Carbon (C) 0.08; Manganese (Mn) 0.35; Silicon (Si) 0.35; Copper (Cu) 0.30; Boron (B) 0.006; Phosphorus (P) 0.015; Sulphur (S) 0.015; Iron (Fe) Balance
+- Applications: Aerospace; Oil & gas; Power generation
+
+## Stainless Steel 310S
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-310s/
+- UNS: S31008; Werkstoff Nr. 1.4845
+- Type: Heat-resistant austenitic stainless
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.08; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 1.50; Chromium (Cr) 24.0 – 26.0; Nickel (Ni) 19.0 – 22.0; Iron (Fe) Balance
+- Applications: Industrial furnaces; Heat treatment; Petrochemical
+
+## Titanium Grade 7
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-7/
+- UNS: R52400; Werkstoff Nr. 3.7235
+- Type: Commercially pure + Pd
+- Density: 4.51 g/cm³
+- Standard basis: ASTM B265 / B348
+- Minimum properties (Annealed): tensile 345 MPa, yield 275 MPa, elongation 20%
+- Chemistry limits (weight %): Nitrogen (N) 0.03; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.30; Oxygen (O) 0.25; Palladium (Pd) 0.12 – 0.25; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Chemical processing; Chlor-alkali; Heat exchangers
+
+## Stainless Steel 316
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-316/
+- UNS: S31600; Werkstoff Nr. 1.4401
+- Type: Molybdenum-bearing austenitic stainless
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.08; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 16.0 – 18.0; Nickel (Ni) 10.0 – 14.0; Molybdenum (Mo) 2.00 – 3.00; Nitrogen (N) 0.10; Iron (Fe) Balance
+- Applications: Marine; Chemical & pharmaceutical; Coastal architecture
+
+## Titanium Grade 9
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-9/
+- UNS: R56320; Werkstoff Nr. 3.7195
+- Type: Near-alpha alloy
+- Density: 4.48 g/cm³
+- Standard basis: ASTM B265 / B348
+- Minimum properties (Annealed): tensile 620 MPa, yield 483 MPa, elongation 15%
+- Chemistry limits (weight %): Nitrogen (N) 0.03; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.25; Oxygen (O) 0.15; Aluminium (Al) 2.5 – 3.5; Vanadium (V) 2.0 – 3.0; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Aerospace; Sports equipment; Medical
+
+## Inconel X-750
+
+- Page: https://www.ramanisteel.com/products/inconel/inconel-x750/
+- UNS: N07750; Werkstoff Nr. 2.4669
+- Type: Precipitation-hardening nickel-chromium alloy
+- Density: 8.28 g/cm³
+- Standard basis: ASTM B637
+- Chemistry limits (weight %): Nickel (incl. cobalt) 70.0 min; Chromium (Cr) 14.0 – 17.0; Iron (Fe) 5.0 – 9.0; Titanium (Ti) 2.25 – 2.75; Aluminium (Al) 0.40 – 1.00; Niobium + tantalum 0.70 – 1.20; Cobalt (Co) 1.0; Carbon (C) 0.08; Manganese (Mn) 1.0; Silicon (Si) 0.50; Copper (Cu) 0.50; Sulphur (S) 0.01
+- Applications: Aerospace & power; Springs & fasteners; Tooling
+
+## Stainless Steel 316L
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-316l/
+- UNS: S31603; Werkstoff Nr. 1.4404
+- Type: Molybdenum-bearing austenitic stainless, low carbon
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 485 MPa, yield 170 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.030; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 16.0 – 18.0; Nickel (Ni) 10.0 – 14.0; Molybdenum (Mo) 2.00 – 3.00; Nitrogen (N) 0.10; Iron (Fe) Balance
+- Applications: Pharmaceutical; Chemical processing; Marine
+
+## Titanium Grade 12
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-12/
+- UNS: R53400; Werkstoff Nr. 3.7105
+- Type: Near-alpha alloy
+- Density: 4.51 g/cm³
+- Standard basis: ASTM B265 / B348
+- Minimum properties (Annealed): tensile 483 MPa, yield 345 MPa, elongation 18%
+- Chemistry limits (weight %): Nitrogen (N) 0.03; Carbon (C) 0.08; Hydrogen (H) 0.015; Iron (Fe) 0.30; Oxygen (O) 0.25; Molybdenum (Mo) 0.2 – 0.4; Nickel (Ni) 0.6 – 0.9; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Heat exchangers; Chemical processing; Marine & offshore
+
+## Stainless Steel 317L
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-317l/
+- UNS: S31703; Werkstoff Nr. 1.4438
+- Type: High-molybdenum austenitic stainless, low carbon
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.030; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 18.0 – 20.0; Nickel (Ni) 11.0 – 15.0; Molybdenum (Mo) 3.0 – 4.0; Nitrogen (N) 0.10; Iron (Fe) Balance
+- Applications: Pollution control; Pulp & paper; Chemical processing
+
+## Titanium Grade 23 (Ti-6Al-4V ELI)
+
+- Page: https://www.ramanisteel.com/products/titanium/titanium-grade-23/
+- UNS: R56407; Werkstoff Nr. 3.7165 ELI
+- Type: Alpha-beta alloy
+- Density: 4.43 g/cm³
+- Standard basis: ASTM B265 / B348
+- Forms in our listings: Plate
+- Minimum properties (Annealed): tensile 828 MPa, yield 759 MPa, elongation 10%
+- Chemistry limits (weight %): Nitrogen (N) 0.03; Carbon (C) 0.08; Hydrogen (H) 0.0125; Iron (Fe) 0.25; Oxygen (O) 0.13; Aluminium (Al) 5.5 – 6.5; Vanadium (V) 3.5 – 4.5; Titanium (Ti) Balance
+- Note: Residual elements: each 0.10 max, total 0.40 max.
+- Applications: Medical; Aerospace; Cryogenic
+
+## Stainless Steel 321H
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-321h/
+- UNS: S32109
+- Type: Titanium-stabilised austenitic stainless, controlled carbon
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.04 – 0.10; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 17.0 – 19.0; Nickel (Ni) 9.0 – 12.0; Nitrogen (N) 0.10; Titanium (Ti) 4 × (C + N) min, 0.70 max; Iron (Fe) Balance
+- Applications: Refining & petrochemical; Expansion joints; Process heating
+
+## Stainless Steel 347H
+
+- Page: https://www.ramanisteel.com/products/stainless-steel/stainless-steel-347h/
+- UNS: S34709
+- Type: Niobium-stabilised austenitic stainless, controlled carbon
+- Density: 8 g/cm³
+- Standard basis: ASTM A240
+- Minimum properties (Annealed): tensile 515 MPa, yield 205 MPa, elongation 40%
+- Chemistry limits (weight %): Carbon (C) 0.04 – 0.10; Manganese (Mn) 2.00; Phosphorus (P) 0.045; Sulphur (S) 0.030; Silicon (Si) 0.75; Chromium (Cr) 17.0 – 19.0; Nickel (Ni) 9.0 – 13.0; Niobium (Nb) 8 × C min, 1.00 max; Iron (Fe) Balance
+- Applications: Power generation; Refining & petrochemical; Process heating

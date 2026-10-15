@@ -1,0 +1,98 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: GPTBot
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: OAI-SearchBot
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: ChatGPT-User
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: ClaudeBot
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: Claude-User
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: PerplexityBot
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: Perplexity-User
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: Google-Extended
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: Applebot-Extended
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: Bingbot
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+User-Agent: CCBot
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /api/
+Disallow: /search
+Disallow: /documents/ramani-steel-company-brochure.pdf
+
+Host: https://www.ramanisteel.com/
+Sitemap: https://www.ramanisteel.com/sitemap.xml
